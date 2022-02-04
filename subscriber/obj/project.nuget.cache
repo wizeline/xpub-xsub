@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "b7ivHaxKTQhWwkXsKdRjjJ5CIayITfWKyWhVCz8RFBwjESKtbSOlx0DOgKAcmDCBtkuuJnoX8/OF6E7jAbEfRA==",
+  "success": true,
+  "projectFilePath": "/Users/juanpablo.franco/csharp/zeromq/tutorial/xpub-xsub/subscriber/subscriber.csproj",
+  "expectedPackageFiles": [
+    "/Users/juanpablo.franco/.nuget/packages/asyncio/0.1.69/asyncio.0.1.69.nupkg.sha512",
+    "/Users/juanpablo.franco/.nuget/packages/microsoft.netcore.platforms/2.0.0/microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "/Users/juanpablo.franco/.nuget/packages/nacl.net/0.1.13/nacl.net.0.1.13.nupkg.sha512",
+    "/Users/juanpablo.franco/.nuget/packages/netmq/4.0.1.6/netmq.4.0.1.6.nupkg.sha512",
+    "/Users/juanpablo.franco/.nuget/packages/system.net.http.winhttphandler/4.4.0/system.net.http.winhttphandler.4.4.0.nupkg.sha512",
+    "/Users/juanpablo.franco/.nuget/packages/system.private.servicemodel/4.4.0/system.private.servicemodel.4.4.0.nupkg.sha512",
+    "/Users/juanpablo.franco/.nuget/packages/system.reflection.dispatchproxy/4.4.0/system.reflection.dispatchproxy.4.4.0.nupkg.sha512",
+    "/Users/juanpablo.franco/.nuget/packages/system.security.principal.windows/4.4.0/system.security.principal.windows.4.4.0.nupkg.sha512",
+    "/Users/juanpablo.franco/.nuget/packages/system.servicemodel.primitives/4.4.0/system.servicemodel.primitives.4.4.0.nupkg.sha512",
+    "/Users/juanpablo.franco/.nuget/packages/system.valuetuple/4.5.0/system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

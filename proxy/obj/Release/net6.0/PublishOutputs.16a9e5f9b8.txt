@@ -1,0 +1,13 @@
+/Users/juanpablo.franco/csharp/zeromq/tutorial/xpub-xsub/proxy/bin/Release/net6.0/publish/proxy
+/Users/juanpablo.franco/csharp/zeromq/tutorial/xpub-xsub/proxy/bin/Release/net6.0/publish/proxy.dll
+/Users/juanpablo.franco/csharp/zeromq/tutorial/xpub-xsub/proxy/bin/Release/net6.0/publish/proxy.deps.json
+/Users/juanpablo.franco/csharp/zeromq/tutorial/xpub-xsub/proxy/bin/Release/net6.0/publish/proxy.runtimeconfig.json
+/Users/juanpablo.franco/csharp/zeromq/tutorial/xpub-xsub/proxy/bin/Release/net6.0/publish/proxy.pdb
+/Users/juanpablo.franco/csharp/zeromq/tutorial/xpub-xsub/proxy/bin/Release/net6.0/publish/AsyncIO.dll
+/Users/juanpablo.franco/csharp/zeromq/tutorial/xpub-xsub/proxy/bin/Release/net6.0/publish/NaCl.dll
+/Users/juanpablo.franco/csharp/zeromq/tutorial/xpub-xsub/proxy/bin/Release/net6.0/publish/NetMQ.dll
+/Users/juanpablo.franco/csharp/zeromq/tutorial/xpub-xsub/proxy/bin/Release/net6.0/publish/System.Net.Http.WinHttpHandler.dll
+/Users/juanpablo.franco/csharp/zeromq/tutorial/xpub-xsub/proxy/bin/Release/net6.0/publish/System.ServiceModel.Primitives.dll
+/Users/juanpablo.franco/csharp/zeromq/tutorial/xpub-xsub/proxy/bin/Release/net6.0/publish/runtimes/win/lib/netstandard2.0/System.Net.Http.WinHttpHandler.dll
+/Users/juanpablo.franco/csharp/zeromq/tutorial/xpub-xsub/proxy/bin/Release/net6.0/publish/runtimes/unix/lib/netstandard2.0/System.Private.ServiceModel.dll
+/Users/juanpablo.franco/csharp/zeromq/tutorial/xpub-xsub/proxy/bin/Release/net6.0/publish/runtimes/win7/lib/netstandard2.0/System.Private.ServiceModel.dll
